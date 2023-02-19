@@ -4,4 +4,8 @@ namespace miweb;
 // Clase ventana
 public class Ventana{
   public int Id ;
+
+  public Ventana(){
+    Id = 1;
+  }
 }
