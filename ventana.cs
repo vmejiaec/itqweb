@@ -4,11 +4,12 @@ namespace miweb;
 // Clase ventana
 public class Ventana{
   public int Id ;
+  public string Name;
 
   public int Doble(){
     Id = 2 * Id;
     return Id;
-  public string Name;
+  }
 
   public Ventana(){
     Id = 1;
