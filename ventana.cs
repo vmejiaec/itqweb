@@ -1,6 +1,7 @@
 using miweb;
 namespace miweb;
 
-public class Ventana(){
+// Clase ventana
+public class Ventana{
   public int Id ;
 }
