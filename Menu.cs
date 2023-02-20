@@ -12,5 +12,8 @@ public class Menu{
         this.tipo = "Inventario";
     }
 
-    public setTipoMat(){}
+    // Poner el tipo a Matrícula
+    public setTipoMat(){
+        this.tipo = "Matrícula";
+    }
 }
