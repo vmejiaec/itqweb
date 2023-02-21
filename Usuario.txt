@@ -1,0 +1,3 @@
+crear usuario
+darle permisos
+enviar por email
